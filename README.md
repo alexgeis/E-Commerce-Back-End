@@ -34,4 +34,14 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Description
 
+First, I used the database schema file to create my initial database and set up the MySql/Sequelize connections I'd require. Once the connection was confirmed, I created the table models, with column constraints/validations, and seeded the database with the provided seed content.
+
+Next I established associations between the tables and tested my validations/references in MySQL Workbench to ensure viability.
+
+Lastly, after the database was populated, I created the API routes for each required request. After much trial and error I was able to create a demo that's fully shown in the video below. This demo shows all routes and available CRUD operations to the user.
+
 ## Deployment
+
+Repo: [E-Commerce Back End](https://github.com/alexgeis/E-Commerce-Back-End)
+
+Walkthrough Video: [E-Commerce Back End Video](https://drive.google.com/file/d/11SJyGsrpTDzEV9nVhrtpi6SIoW7bBP3E/view)
