@@ -1,7 +1,5 @@
 # (ORM): E-Commerce Back End
 
-## Your Task
-
 Back end for an e-commerce site by modifying starter code. Features a working Express.js API and uses Sequelize to interact with a MySQL database.
 
 ## User Story
