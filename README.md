@@ -1,6 +1,6 @@
 # (ORM): E-Commerce Back End
 
-Back end for an e-commerce site by modifying starter code. Features a working Express.js API and uses Sequelize to interact with a MySQL database.
+Back end for an e-commerce site. Features a working Express.js API and uses Sequelize to interact with a MySQL database.
 
 ## User Story
 
